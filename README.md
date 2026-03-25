@@ -31,8 +31,6 @@ Esse dataset foi escolhido porque permite trabalhar com dois tipos de problema:
 - **Regressão:** prever a nota de qualidade do vinho (`quality`)
 - **Classificação:** prever se o vinho é considerado bom ou não
 
-> **Observação:** O projeto respeita as restrições do enunciado, pois não utiliza os datasets **Iris** nem **California Housing Prices**.
-
 ## Modelos utilizados
 
 ### Classificação
